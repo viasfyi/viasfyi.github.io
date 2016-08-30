@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vias Thought</title>
+    <description>Random blog about my projects, which may contain programming, soldering, electronics, games and all sorts of hackery. I may also post about food and personal things.</description>
+    <link>http://vias.fyi/</link>
+    <atom:link href="http://vias.fyi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Aug 2016 17:02:49 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Aug 2016 17:02:49 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Hello!&lt;/p&gt;
+
+&lt;p&gt;This will be my random project and thoughts blog. I may not update it very often.&lt;/p&gt;
+
+&lt;p&gt;This is a test post using Jekyll. Thanks!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Aug 2016 10:46:14 +0000</pubDate>
+        <link>http://vias.fyi/beggining/2016/08/30/hello-world.html</link>
+        <guid isPermaLink="true">http://vias.fyi/beggining/2016/08/30/hello-world.html</guid>
+        
+        
+        <category>beggining</category>
+        
+      </item>
+    
+  </channel>
+</rss>
